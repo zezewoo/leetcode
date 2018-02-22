@@ -4,7 +4,6 @@ package com.leetcode.algorithms.start.resolution;
 public class LongestSubstringWithoutRepeatingCharacters {
 
 
-
     public int lengthOfLongestSubstring(String s) {
 
         int k = 0, j = 1, n = 0;
