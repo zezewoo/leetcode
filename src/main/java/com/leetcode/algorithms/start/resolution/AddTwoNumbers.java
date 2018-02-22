@@ -3,7 +3,6 @@ package com.leetcode.algorithms.start.resolution;
 
 import com.leetcode.algorithms.start.resolution.collections.ListNode;
 
-import java.util.List;
 
 
 public class AddTwoNumbers {
