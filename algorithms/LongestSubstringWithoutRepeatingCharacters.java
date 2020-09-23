@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * @author buyi@gegejia.com
+ * @author wuxiaobiao
  * @date 2020-09-23 : 16:01
  */
 public class LongestSubstringWithoutRepeatingCharacters {

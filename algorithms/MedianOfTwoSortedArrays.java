@@ -1,7 +1,7 @@
 package algorithms;
 
 /**
- * @author buyi@gegejia.com
+ * @author wuxiaobiao
  * @date 2020-09-23 : 16:16
  */
 public class MedianOfTwoSortedArrays {
