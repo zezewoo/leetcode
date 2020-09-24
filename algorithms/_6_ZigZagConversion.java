@@ -4,8 +4,7 @@ package algorithms;
  * @author wuxiaobiao
  * @date 2020-09-23 : 19:37
  */
-public class ZigZagConversion {
-
+public class _6_ZigZagConversion {
 
 
 
@@ -13,7 +12,7 @@ public class ZigZagConversion {
     public static void main(String[] args) {
 
 
-        ZigZagConversion conversion = new ZigZagConversion();
+        _6_ZigZagConversion conversion = new _6_ZigZagConversion();
 //        String a = conversion.convert("PAYPALISHIRING", 3);
         String b = conversion.convert("AB", 1);
         String c = conversion.convert("PAYPALISHIRING", 5);

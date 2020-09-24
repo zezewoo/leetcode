@@ -9,12 +9,12 @@ import java.util.Map;
  * @author wuxiaobiao
  * @date 2020-09-23 : 16:01
  */
-public class LongestSubstringWithoutRepeatingCharacters {
+public class _3_LongestSubstringWithoutRepeatingCharacters {
 
 
     public static void main(String[] args) {
 
-        LongestSubstringWithoutRepeatingCharacters solution = new LongestSubstringWithoutRepeatingCharacters();
+        _3_LongestSubstringWithoutRepeatingCharacters solution = new _3_LongestSubstringWithoutRepeatingCharacters();
         int ca = solution.lengthOfLongestSubstring(" ");
         int a = solution.lengthOfLongestSubstring("abcabcbb");
         int b = solution.lengthOfLongestSubstring("bbbbb");

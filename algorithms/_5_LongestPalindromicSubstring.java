@@ -1,20 +1,17 @@
 package algorithms;
 
 
-import java.util.ArrayList;
-import java.util.List;
-
 /**
  * @author wuxiaobiao
  * @date 2020-09-23 : 17:05
  */
 
-public class LongestPalindromicSubstring {
+public class _5_LongestPalindromicSubstring {
 
 
     public static void main(String[] args) {
 
-        LongestPalindromicSubstring substring = new LongestPalindromicSubstring();
+        _5_LongestPalindromicSubstring substring = new _5_LongestPalindromicSubstring();
         String a = substring.longestPalindrome("1234asdadababa");
         String b = substring.longestPalindrome("abaaba");
         String c = substring.longestPalindrome("abab");

@@ -4,12 +4,12 @@ package algorithms;
  * @author wuxiaobiao
  * @date 2020-09-23 : 16:16
  */
-public class MedianOfTwoSortedArrays {
+public class _4_MedianOfTwoSortedArrays {
 
 
     public static void main(String[] args) {
 
-        MedianOfTwoSortedArrays sortedArrays = new MedianOfTwoSortedArrays();
+        _4_MedianOfTwoSortedArrays sortedArrays = new _4_MedianOfTwoSortedArrays();
 
         int[] nums1 = {10};
         int[] nums2 = {2, 3};
