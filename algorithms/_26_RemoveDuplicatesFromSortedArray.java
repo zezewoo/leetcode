@@ -2,7 +2,7 @@ package algorithms;
 
 
 /**
- * @author buyi@gegejia.com
+ * @author wxb
  * @date 2020-10-22 : 15:43
  */
 
@@ -32,7 +32,6 @@ public class _26_RemoveDuplicatesFromSortedArray {
         if (nums.length <= 1) {
             return nums.length;
         }
-        int result = 1;
         int m = nums[0];
         int point = 1;
 
@@ -44,10 +43,9 @@ public class _26_RemoveDuplicatesFromSortedArray {
                 m = nums[i];
                 nums[point] = m;
                 point ++;
-                result ++;
             }
         }
 
-        return result;
+        return point;
     }
 }
